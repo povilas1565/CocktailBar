@@ -2,7 +2,7 @@
 Мобильное приложение “Cocktail Bar” Surf-Study-Jam-2023. Cоздано в Android Studio 2022.2.1(Flamingo), версия gradle 8.0.
 
 ### Архитектура
-1) MVP + Clean Architecture + Java Version 17.
+1) MVP + Clean Architecture + Java Version 17
 2) Bottom Navigation
 3) ViewPager2
 4) Kotlin Coroutines
